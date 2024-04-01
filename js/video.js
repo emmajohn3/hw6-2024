@@ -83,5 +83,5 @@ document.querySelector("#vintage").addEventListener("click", function() {
 
 // elements- original, remove the oldschool class from the video
 document.querySelector("#orig").addEventListener("click", function() {
-    video.className = video.className.replace(' oldSchool', '')
+    video.className = 'video'
 });
